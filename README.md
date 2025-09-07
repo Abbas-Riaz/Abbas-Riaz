@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Abbas-Riaz
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning Django and cyber security 
+Hi, I’m @Abbas-Riaz
+experienced in Html , CSS , TailwindCss , vanilla js 
+have foundation in djnago , my sql and postgresql .
+languages learned : python , javascript and c++
+
 
 
 <!---
