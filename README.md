@@ -1,7 +1,7 @@
 
 #  Hi, I’m Abbas Riaz (@Abbas-Riaz)
 
- **Full-Stack Python & AI-Focused Web Developer**
+ **Django Backend Developer | AI & RAG Systems**
 I build modern web applications and intelligent systems using **Django, REST APIs, and AI-powered retrieval systems (RAG)**.
 
 I have a strong foundation in **backend development**, clean API design, and **vector-based search systems**, and I’m actively working on real-world AI + web integrations.
